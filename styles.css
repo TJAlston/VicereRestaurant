@@ -231,6 +231,8 @@ a:hover {
 #feature-five {
   padding-top: 4rem;
   padding-bottom: 4rem;
+  position: relative;
+  z-index: -1;
 }
 
 
