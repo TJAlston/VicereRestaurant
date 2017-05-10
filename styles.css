@@ -267,6 +267,7 @@ a:hover {
 .box {
   animation-name: slideInUp;
   animation-duration: 4s;
+  padding-top: 75px;
 }
 
 .contact {
