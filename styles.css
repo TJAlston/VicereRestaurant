@@ -124,8 +124,10 @@ a:hover {
 }
 
 .mapSize {
+  margin-left: -10px;
   height: 50vh;
-  padding-right: 50px;
+  width: 350px;
+  margin-top: 15px;
 }
 
 #stage {
